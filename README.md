@@ -37,6 +37,7 @@ The desired $z$ is the eigenvector corresponding to the smallest eigenvalue $\la
 ## References
 
 [1] https://en.wikipedia.org/wiki/Conformal_map
+
 [2] https://en.wikipedia.org/wiki/Laplacian_matrix
 
 
